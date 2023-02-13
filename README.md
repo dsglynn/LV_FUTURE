@@ -1,2 +1,2 @@
 # LV_FUTURE
-Metadata and R HIST for LV article on future constructions
+Metadata and R Commands for Linguistics Vanguard article on modelling future constructions
