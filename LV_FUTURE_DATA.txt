@@ -1,0 +1,375 @@
+Lemma	Cx	Cx-Prs	Verb_type1	Contingency	Contingency-Coarse	Intention	Intention-Coarse	Link_to_t0	Link_to_t0-Coarse	Temporal_proximityA	Temporal_proximityA-ORD	Speaker_certaintyD	Speaker_certaintyD-ORD	Person_animacy
+start ING	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+make	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+use	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+throw	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	1_	1_	1st-animate
+go eat	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+make	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+do	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	3_	3_	1st-animate
+keep ING	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+do	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+start ING	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+wear	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+fuck	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+cut	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	detached	detached	1_imminent	1_imminent	1_	1_	1st-animate
+stop	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+put	going_to	GT-1st	action verbs	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	3_	3_	1st-animate
+go make	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+do	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	5_distal	5_distal	1_	1_	1st-animate
+wear	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	3_	3_	1st-animate
+put into practice	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+do	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+make	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+fuck	going_to	GT-1st	action verbs	contingent (when-clause)	contingent 	speaker-intention	intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+study	going_to	GT-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	5_distal	5_distal	2_	2_	1st-animate
+find	going_to	GT-1st	change of possession	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	2_	2_	1st-animate
+keep	going_to	GT-1st	change of possession	independent	independent	speaker-intention	intentional	detached	detached	3_unknown	3_unknown	3_	3_	1st-animate
+buy	going_to	GT-1st	change of possession	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+take	going_to	GT-1st	change of possession	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+buy	going_to	GT-1st	change of possession	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+throw	going_to	GT-1st	change of possession	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	2_proximal	2_proximal	3_	3_	1st-animate
+have	going_to	GT-1st	change of state	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+get	going_to	GT-1st	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	1st-animate
+start ING	going_to	GT-1st	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	1st-animate
+get	going_to	GT-1st	change of state	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	3_	3_	1st-animate
+finish	going_to	GT-1st	change of state	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	2_	2_	1st-animate
+make	going_to	GT-1st	change of state	independent	independent	speaker-intention	intentional	detached	detached	3_unknown	3_unknown	2_	2_	1st-animate
+get	going_to	GT-1st	change of state	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	3_	3_	1st-animate
+fail	going_to	GT-1st	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	1st-animate
+die	going_to	GT-1st	change of state	independent	independent	non-intentional	non-intentional	attached (imminent)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+get	going_to	GT-1st	change of state	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+end	going_to	GT-1st	change of state	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	5_distal	5_distal	1_	1_	1st-animate
+do	going_to	GT-1st	change of state	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	5_distal	5_distal	2_	2_	1st-animate
+learn ING	going_to	GT-1st	change of state	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	5_distal	5_distal	1_	1_	1st-animate
+be DESCRIPT	going_to	GT-1st	change of state	contingent (otherwise)	contingent 	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+go nuts	going_to	GT-1st	change of state	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+write	going_to	GT-1st	communication	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	4_neutral	4_neutral	1_	1_	1st-animate
+write	going_to	GT-1st	communication	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+ring	going_to	GT-1st	communication	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+live	going_to	GT-1st	existence	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	3_	3_	1st-animate
+be DESCRIPT	going_to	GT-1st	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+be LOC	going_to	GT-1st	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+be DESCRIPT	going_to	GT-1st	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+have	going_to	GT-1st	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+have	going_to	GT-1st	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	1_	1_	1st-animate
+let	going_to	GT-1st	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+stay	going_to	GT-1st	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	1_	1_	1st-animate
+have	going_to	GT-1st	existence	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+be LOC	going_to	GT-1st	motion	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+be LOC	going_to	GT-1st	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+go_metaphor	going_to	GT-1st	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+stand	going_to	GT-1st	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	3_	3_	1st-animate
+move out	going_to	GT-1st	motion	independent	independent	speaker-intention	intentional	detached	detached	4_neutral	4_neutral	1_	1_	1st-animate
+crash	going_to	GT-1st	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+lie	going_to	GT-1st	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+go	going_to	GT-1st	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+sit	going_to	GT-1st	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+go	going_to	GT-1st	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+go	going_to	GT-1st	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+be PASSIVE	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (imminent)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	2_	2_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	2_	2_	1st-animate
+have to	going_to	GT-1st	obligation	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (imminent)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (imminent)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+be PASSIVE	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	3_	3_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	2_	2_	1st-animate
+have to	going_to	GT-1st	obligation	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	1st-animate
+watch	going_to	GT-1st	perception	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+try	going_to	GT-1st	psych-verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	2_	2_	1st-animate
+hate	going_to	GT-1st	psych-verbs	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+miss	going_to	GT-1st	psych-verbs	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	5_distal	5_distal	1_	1_	1st-animate
+try	going_to	GT-1st	psych-verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	1_	1_	1st-animate
+miss	going_to	GT-1st	psych-verbs	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+love	going_to	GT-1st	psych-verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	1_	1_	1st-animate
+miss	going_to	GT-1st	psych-verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+see_try	going_to	GT-1st	psych-verbs	independent	independent	speaker-intention	intentional	detached	detached	1_imminent	1_imminent	3_	3_	1st-animate
+make	going_to	GT-1st	psych-verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+try	going_to	GT-1st	psych-verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	5_distal	5_distal	2_	2_	1st-animate
+be DESCRIPT	going_to	GT-1st	psych-verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+try	going_to	GT-1st	psych-verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	3_	3_	1st-animate
+need	going_to	GT-1st	psych-verbs	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+feel	going_to	GT-1st	psych-verbs	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+be DESCRIPT	going_to	GT-1st	psych-verbs	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	1st-animate
+go	going_to	GT-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+have	going_to	GT-1st	social interaction	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+tag	going_to	GT-1st	social interaction	contingent (any/anyone)	contingent 	speaker-intention	intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+write	going_to	GT-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	1_	1_	1st-animate
+play	going_to	GT-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	1_	1_	1st-animate
+have	going_to	GT-1st	social interaction	independent	independent	speaker-intention	intentional	detached	detached	1_imminent	1_imminent	1_	1_	1st-animate
+go comment	going_to	GT-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	2_	2_	1st-animate
+see_visit	going_to	GT-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+meet	going_to	GT-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+get	going_to	GT-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+meet	going_to	GT-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+kill	going_to	GT-3rd	action verbs	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	3_unknown	3_unknown	1_	1_	3rd-animate
+put through	going_to	GT-3rd	action verbs	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	2_	2_	3rd-animate
+fight	going_to	GT-3rd	action verbs	independent	independent	subject-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	1_	1_	3rd-animate
+try on	going_to	GT-3rd	action verbs	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-animate
+be PASSIVE	going_to	GT-3rd	action verbs	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	3rd-animate
+stop ING	going_to	GT-3rd	change of state	independent	independent	subject-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+be DESCRIPT	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-animate
+be PASSIVE	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	5_distal	5_distal	1_	1_	3rd-animate
+go off	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	4_neutral	4_neutral	1_	1_	3rd-animate
+end up	going_to	GT-3rd	change of state	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-animate
+drive	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+be DESCRIPT	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+be DESCRIPT	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-animate
+be able to	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+tell	going_to	GT-3rd	communication	independent	independent	subject-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	3rd-animate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-animate
+be LOC	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+be LOC	going_to	GT-3rd	motion	independent	independent	non-intentional	non-intentional	attached (imminent)	attached 	1_imminent	1_imminent	1_	1_	3rd-animate
+be LOC	going_to	GT-3rd	motion	independent	independent	non-intentional	non-intentional	attached (imminent)	attached 	1_imminent	1_imminent	1_	1_	3rd-animate
+be LOC	going_to	GT-3rd	motion	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-animate
+have to	going_to	GT-3rd	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+have to	going_to	GT-3rd	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+have to	going_to	GT-3rd	obligation	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-animate
+have to	going_to	GT-3rd	obligation	independent	independent	non-intentional	non-intentional	attached (imminent)	attached 	1_imminent	1_imminent	3_	3_	3rd-animate
+make	going_to	GT-3rd	obligation	independent	independent	subject-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+take notice	going_to	GT-3rd	perception	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-animate
+attempt	going_to	GT-3rd	psych-verbs	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+meet	going_to	GT-3rd	social interaction	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+sign	going_to	GT-3rd	social interaction	independent	independent	subject-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+break metaphor	going_to	GT-3rd	social interaction	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	3_	3_	3rd-animate
+be PASSIVE	going_to	GT-3rd	change of possession	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	3_	3_	3rd-inanimate
+pick	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+light	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+destroy	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	5_distal	5_distal	3_	3_	3rd-inanimate
+get	going_to	GT-3rd	change of state	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+help	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	attached (imminent)	attached 	1_imminent	1_imminent	3_	3_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	2_	2_	3rd-inanimate
+get	going_to	GT-3rd	change of state	independent	independent	non-intentional	non-intentional	attached (within discourse)	attached 	1_imminent	1_imminent	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	5_distal	5_distal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	5_distal	5_distal	3_	3_	3rd-inanimate
+stay	going_to	GT-3rd	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	3_unknown	3_unknown	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	3_	3_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-inanimate
+be EXIST	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+take time	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	2_	2_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	contingent (X then Y)	contingent 	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-inanimate
+be EXIST	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be EXIST	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	3_	3_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+grind	going_to	GT-3rd	motion	contingent (otherwise)	contingent 	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-inanimate
+fall through	going_to	GT-3rd	motion	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	3_	3_	3rd-inanimate
+be EXIST	going_to	GT-3rd	motion	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be PASSIVE	going_to	GT-3rd	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+have to	going_to	GT-3rd	obligation	independent	independent	non-intentional	non-intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	3rd-inanimate
+look	going_to	GT-3rd	perception	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	going_to	GT-3rd	psych-verbs	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	2_	2_	3rd-inanimate
+seem	going_to	GT-3rd	psych-verbs	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be PASSIVE	going_to	GT-3rd	social interaction	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	2_	2_	3rd-inanimate
+do	will	W-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+be ING	will	W-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+work	will	W-1st	action verbs	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+kick	will	W-1st	action verbs	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	1_imminent	1_imminent	1_	1_	1st-animate
+tear	will	W-1st	action verbs	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	1_imminent	1_imminent	1_	1_	1st-animate
+throw	will	W-1st	action verbs	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	1_imminent	1_imminent	1_	1_	1st-animate
+be ING	will	W-1st	action verbs	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	2_	2_	1st-animate
+do	will	W-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+be ING	will	W-1st	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+give	will	W-1st	change of possession	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	4_neutral	4_neutral	1_	1_	1st-animate
+be ING	will	W-1st	change of possession	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	2_	2_	1st-animate
+give	will	W-1st	change of possession	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+have	will	W-1st	change of possession	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	2_	2_	1st-animate
+get	will	W-1st	change of possession	contingent (when-clause)	contingent 	speaker-intention	intentional	detached	detached	5_distal	5_distal	3_	3_	1st-animate
+be able to	will	W-1st	change of state	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+be able to	will	W-1st	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	2_	2_	1st-animate
+fail	will	W-1st	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	1st-animate
+be DESCRIPT	will	W-1st	change of state	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	1st-animate
+get	will	W-1st	change of state	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+make	will	W-1st	change of state	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	4_neutral	4_neutral	2_	2_	1st-animate
+be EXIST	will	W-1st	change of state	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	2_	2_	1st-animate
+be DESCRIPT	will	W-1st	change of state	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	2_	2_	1st-animate
+get	will	W-1st	change of state	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+publish	will	W-1st	communication	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	4_neutral	4_neutral	3_	3_	1st-animate
+write	will	W-1st	communication	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	2_	2_	1st-animate
+sing	will	W-1st	communication	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	5_distal	5_distal	1_	1_	1st-animate
+spend	will	W-1st	existence	independent	independent	speaker-intention	intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+be LOC	will	W-1st	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+be EXIST	will	W-1st	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+be DESCRIPT	will	W-1st	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+be DESCRIPT	will	W-1st	existence	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+survive	will	W-1st	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	1st-animate
+be DESCRIPT	will	W-1st	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	2_	2_	1st-animate
+be able to	will	W-1st	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	1st-animate
+take	will	W-1st	motion	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	1st-animate
+be LOC	will	W-1st	motion	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	4_neutral	4_neutral	1_	1_	1st-animate
+be LOC	will	W-1st	motion	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	2_	2_	1st-animate
+get out	will	W-1st	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+go	will	W-1st	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+make	will	W-1st	obligation	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+have to	will	W-1st	obligation	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	3_	3_	1st-animate
+watch	will	W-1st	perception	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+replay	will	W-1st	perception	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	2_	2_	1st-animate
+find out	will	W-1st	perception	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+miss	will	W-1st	psych-verbs	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+try	will	W-1st	psych-verbs	independent	independent	speaker-intention	intentional	detached	detached	4_neutral	4_neutral	3_	3_	1st-animate
+want	will	W-1st	psych-verbs	independent	independent	speaker-intention	intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+forget	will	W-1st	psych-verbs	independent	independent	speaker-intention	intentional	detached	detached	5_distal	5_distal	1_	1_	1st-animate
+miss	will	W-1st	psych-verbs	contingent (otherwise)	contingent 	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+try	will	W-1st	psych-verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	1_imminent	1_imminent	1_	1_	1st-animate
+hold out	will	W-1st	psych-verbs	independent	independent	speaker-intention	intentional	detached	detached	5_distal	5_distal	1_	1_	1st-animate
+be PASSIVE	will	W-1st	psych-verbs	independent	independent	speaker-intention	intentional	detached	detached	2_proximal	2_proximal	2_	2_	1st-animate
+try	will	W-1st	psych-verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	3_	3_	1st-animate
+smile	will	W-1st	social interaction	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	1st-animate
+post	will	W-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	1_	1_	1st-animate
+meet	will	W-1st	social interaction	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	1st-animate
+write	will	W-1st	social interaction	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	2_	2_	1st-animate
+update	will	W-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+come	will	W-1st	social interaction	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	1st-animate
+add	will	W-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	4_neutral	4_neutral	1_	1_	1st-animate
+speak	will	W-1st	social interaction	independent	independent	speaker-intention	intentional	detached	detached	4_neutral	4_neutral	2_	2_	1st-animate
+be ING	will	W-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	2_	2_	1st-animate
+be ING	will	W-1st	social interaction	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	3_	3_	1st-animate
+have	will	W-1st	social interaction	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	1st-animate
+listen	will	W-1st	social interaction	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	2_proximal	2_proximal	1_	1_	1st-animate
+see_visit	will	W-1st	social interaction	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	2_	2_	1st-animate
+do	will	W-3rd	action verbs	independent	independent	subject-intention	intentional	attached (decision taken)	attached 	5_distal	5_distal	3_	3_	3rd-animate
+do	will	W-3rd	action verbs	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	5_distal	5_distal	1_	1_	3rd-animate
+accept	will	W-3rd	change of possession	independent	independent	subject-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+send	will	W-3rd	change of possession	independent	independent	speaker-intention	intentional	detached	detached	4_neutral	4_neutral	2_	2_	3rd-animate
+find	will	W-3rd	change of possession	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	3_	3_	3rd-animate
+lose	will	W-3rd	change of possession	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	3rd-animate
+die	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-animate
+get	will	W-3rd	change of state	contingent (any/anyone)	contingent 	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	2_	2_	3rd-animate
+triumph	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	3rd-animate
+die	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	3rd-animate
+be DESCRIPT	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-animate
+save	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	3_	3_	3rd-animate
+tell	will	W-3rd	communication	independent	independent	subject-intention	intentional	detached	detached	2_proximal	2_proximal	1_	1_	3rd-animate
+be EXIST	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	3rd-animate
+be EXIST	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	3_	3_	3rd-animate
+be LOC	will	W-3rd	existence	independent	independent	subject-intention	intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	1_	1_	3rd-animate
+be LOC	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	attached (imminent)	attached 	1_imminent	1_imminent	1_	1_	3rd-animate
+get out	will	W-3rd	motion	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	2_	2_	3rd-animate
+come	will	W-3rd	motion	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-animate
+come trough	will	W-3rd	motion	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	3_	3_	3rd-animate
+come	will	W-3rd	motion	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	2_	2_	3rd-animate
+have to	will	W-3rd	obligation	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	2_proximal	2_proximal	1_	1_	3rd-animate
+have to	will	W-3rd	obligation	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	2_	2_	3rd-animate
+understand	will	W-3rd	perception	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-animate
+understand	will	W-3rd	perception	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	2_	2_	3rd-animate
+assume	will	W-3rd	perception	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	4_neutral	4_neutral	1_	1_	3rd-animate
+see	will	W-3rd	perception	contingent (X then Y)	contingent 	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-animate
+love	will	W-3rd	psych-verbs	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-animate
+love	will	W-3rd	psych-verbs	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-animate
+wait	will	W-3rd	psych-verbs	independent	independent	subject-intention	intentional	attached (decision taken)	attached 	5_distal	5_distal	1_	1_	3rd-animate
+be DESCRIPT	will	W-3rd	psych-verbs	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	3_	3_	3rd-animate
+discuss  	will	W-3rd	social interaction	independent	independent	subject-intention	intentional	attached (decision taken)	attached 	4_neutral	4_neutral	1_	1_	3rd-animate
+marry	will	W-3rd	social interaction	independent	independent	subject-intention	intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-animate
+condemn	will	W-3rd	social interaction	contingent (if-clause)	contingent 	subject-intention	intentional	detached	detached	4_neutral	4_neutral	2_	2_	3rd-animate
+call	will	W-3rd	social interaction	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-animate
+go out	will	W-3rd	social interaction	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	2_proximal	2_proximal	3_	3_	3rd-animate
+pick	will	W-3rd	social interaction	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	3_	3_	3rd-animate
+be ING	will	W-3rd	social interaction	contingent (when-clause)	contingent 	subject-intention	intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-animate
+be PASSIVE	will	W-3rd	action verbs	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+kill	will	W-3rd	action verbs	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-inanimate
+be PASSIVE	will	W-3rd	action verbs	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-inanimate
+be PASSIVE	will	W-3rd	action verbs	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-inanimate
+be PASSIVE	will	W-3rd	action verbs	independent	independent	subject-intention	intentional	attached (decision taken)	attached 	4_neutral	4_neutral	1_	1_	3rd-inanimate
+be PASSIVE	will	W-3rd	action verbs	independent	independent	non-intentional	non-intentional	attached (imminent)	attached 	1_imminent	1_imminent	3_	3_	3rd-inanimate
+give	will	W-3rd	change of possession	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	3_	3_	3rd-inanimate
+give	will	W-3rd	change of possession	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	2_	2_	3rd-inanimate
+be PASSIVE	will	W-3rd	change of state	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	2_	2_	3rd-inanimate
+be able to	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	3rd-inanimate
+end	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	3_unknown	3_unknown	2_	2_	3rd-inanimate
+be DESCRIPT	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	2_	2_	3rd-inanimate
+break	will	W-3rd	change of state	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	1_imminent	1_imminent	3_	3_	3rd-inanimate
+improve	will	W-3rd	change of state	contingent (any/anyone)	contingent 	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+be PASSIVE	will	W-3rd	change of state	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	4_neutral	4_neutral	1_	1_	3rd-inanimate
+help	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	3_	3_	3rd-inanimate
+heal	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+come	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+sort	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	3rd-inanimate
+settle	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-inanimate
+have	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+fall prey	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-inanimate
+sort	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+dry	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	3rd-inanimate
+be DESCRIPT	will	W-3rd	change of state	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	3rd-inanimate
+be PASSIVE	will	W-3rd	communication	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	5_distal	5_distal	1_	1_	3rd-inanimate
+be PASSIVE	will	W-3rd	communication	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	5_distal	5_distal	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+exist	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+be EXIST	will	W-3rd	existence	contingent (X then Y)	contingent 	speaker-intention	intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+be EXIST	will	W-3rd	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	2_	2_	3rd-inanimate
+feature	will	W-3rd	existence	contingent (when-clause)	contingent 	speaker-intention	intentional	detached	detached	5_distal	5_distal	2_	2_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	2_	2_	3rd-inanimate
+leave alone	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	3rd-inanimate
+involve	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+be EXIST	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	5_distal	5_distal	2_	2_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	contingent (if-clause)	contingent 	speaker-intention	intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+be EXIST	will	W-3rd	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	5_distal	5_distal	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-inanimate
+be EXIST	will	W-3rd	existence	independent	independent	subject-intention	intentional	attached (decision taken)	attached 	4_neutral	4_neutral	1_	1_	3rd-inanimate
+continue	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	2_	2_	3rd-inanimate
+be EXIST	will	W-3rd	existence	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-inanimate
+take	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	5_distal	5_distal	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	5_distal	5_distal	1_	1_	3rd-inanimate
+take	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	attached (within discourse)	attached 	1_imminent	1_imminent	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	2_	2_	3rd-inanimate
+come	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-inanimate
+contain	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	3_	3_	3rd-inanimate
+be EXIST	will	W-3rd	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	4_neutral	4_neutral	2_	2_	3rd-inanimate
+be EXIST	will	W-3rd	existence	independent	independent	subject-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	1_	1_	3rd-inanimate
+continue	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	2_	2_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	5_distal	5_distal	2_	2_	3rd-inanimate
+be EXIST	will	W-3rd	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be EXIST	will	W-3rd	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	3_unknown	3_unknown	1_	1_	3rd-inanimate
+remain	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	3_	3_	3rd-inanimate
+be EXIST	will	W-3rd	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be EXIST	will	W-3rd	existence	contingent (if-clause)	contingent 	non-intentional	non-intentional	attached (conditions in place)	attached 	5_distal	5_distal	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	3_	3_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	attached (imminent)	attached 	1_imminent	1_imminent	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	attached (conditions in place)	attached 	2_proximal	2_proximal	3_	3_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+be EXIST	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	2_	2_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	attached (imminent)	attached 	1_imminent	1_imminent	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	existence	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	1_	1_	3rd-inanimate
+come	will	W-3rd	motion	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	3_	3_	3rd-inanimate
+be ING	will	W-3rd	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	2_	2_	3rd-inanimate
+arrive	will	W-3rd	motion	independent	independent	speaker-intention	intentional	attached (decision taken)	attached 	2_proximal	2_proximal	1_	1_	3rd-inanimate
+look	will	W-3rd	perception	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+see	will	W-3rd	perception	independent	independent	non-intentional	non-intentional	detached	detached	5_distal	5_distal	1_	1_	3rd-inanimate
+be DESCRIPT	will	W-3rd	psych-verbs	independent	independent	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	2_	2_	3rd-inanimate
+wait	will	W-3rd	psych-verbs	contingent (if-clause)	contingent 	non-intentional	non-intentional	detached	detached	4_neutral	4_neutral	1_	1_	3rd-inanimate
+affect	will	W-3rd	psych-verbs	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-inanimate
+go	will	W-3rd	social interaction	independent	independent	non-intentional	non-intentional	detached	detached	2_proximal	2_proximal	3_	3_	3rd-inanimate
+prove	will	W-3rd	social interaction	independent	independent	non-intentional	non-intentional	detached	detached	3_unknown	3_unknown	1_	1_	3rd-inanimate

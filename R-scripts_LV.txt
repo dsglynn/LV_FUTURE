@@ -1,0 +1,144 @@
+######################
+## Needed Scripts ####
+######################
+
+## script for my.lmer.nagelkerke
+my.lmer.nagelkerke <- function(f, d) {
+ lmer.full= lmer(formula= as.formula(paste(f, collapse="+")), d, family="binomial")
+ logLik.lmer.full= as.numeric(logLik(lmer.full))
+ N.lmer.full= nrow(lmer.full@X)
+ cat(paste("Full mixed model: L=", logLik.lmer.full, ", N=", N.lmer.full, "\n", sep=""))
+
+ lmer.intercept= lmer(formula= as.formula(paste(unlist(strsplit(f[1], "~"))[1], paste("1", f[2], sep=" + "), sep="~ ")), data= d, family="binomial")
+ logLik.lmer.intercept= as.numeric(logLik(lmer.intercept))
+ N.lmer.intercept= nrow(lmer.intercept@X)
+ cat(paste("Intercept mixed model: L=", logLik.lmer.intercept, ", N=", N.lmer.intercept, "\n", sep=""))
+
+ lrm.full= lrm(formula= as.formula(f[1]), data= d)
+ logLik.lrm.intercept= as.numeric(deviance(lrm.full)[1] / - 2)
+ N.lrm.intercept= as.numeric(lrm.full$stats[1])
+ cat(paste("Intercept ordinary model: L=", logLik.lrm.intercept, ", N=", N.lrm.intercept, "\n", sep=""))
+
+ coxsnell.lmer= 1 - exp((logLik.lmer.intercept - logLik.lmer.full) * (2/N.lmer.full))
+ nagelkerke.lmer= coxsnell.lmer / (1 - exp(logLik.lmer.intercept * (2/N.lmer.full)))
+ cat(paste("Full model evaluated against mixed intercept model:\n\tCoxSnell R2: ", coxsnell.lmer, "\n\tNagelkerke R2: ", nagelkerke.lmer,"\n", sep=""))
+ coxsnell.lrm= 1 - exp((logLik.lrm.intercept - logLik.lmer.full) * (2/N.lmer.full))
+ nagelkerke.lrm= coxsnell.lrm / (1 - exp(logLik.lrm.intercept * (2/N.lmer.full)))
+ cat(paste("Full model evaluated against ordinary intercept model:\n\tCoxSnell R2: ", coxsnell.lrm, "\n\tNagelkerke R2: ", nagelkerke.lrm,"\n", sep=""))
+ coxsnell.lrm.2= 1 - exp((logLik.lrm.intercept - logLik.lmer.intercept) * (2/N.lmer.full))
+ nagelkerke.lrm.2= coxsnell.lrm.2 / (1 - exp(logLik.lrm.intercept * (2/N.lmer.full)))
+ cat(paste("Mixed intercept model evaluated against ordinary intercept model:\n\tCoxSnell R2: ", coxsnell.lrm.2, "\n\tNagelkerke R2: ", nagelkerke.lrm.2,"\n", sep=""))
+}
+
+## Script for working out Vifs
+
+vif.mer <- function (fit) {
+## adapted from rms::vif
+v <- vcov(fit)
+nam <- names(fixef(fit))
+## exclude intercepts
+ns <- sum(1 * (nam == "Intercept" | nam == "(Intercept)"))
+if (ns > 0) {
+v <- v[-(1:ns), -(1:ns), drop = FALSE]
+nam <- nam[-(1:ns)]
+}
+d <- diag(v)^0.5
+v <- diag(solve(v/(d %o% d)))
+names(v) <- nam
+v
+}
+
+## Script for working out Kappa estiamtes of collinearity
+
+kappa.mer <- function (fit,
+scale = TRUE, center = FALSE,
+add.intercept = TRUE,
+exact = FALSE) {
+X <- fit@X
+nam <- names(fixef(fit))
+## exclude intercepts
+nrp <- sum(1 * (nam == "(Intercept)"))
+if (nrp > 0) {
+X <- X[, -(1:nrp), drop = FALSE]
+nam <- nam[-(1:nrp)]
+}
+if (add.intercept) {
+X <- cbind(rep(1), scale(X, scale = scale, center = center))
+kappa(X, exact = exact)
+} else {
+kappa(scale(X, scale = scale, center = scale), exact = exact)
+}
+}
+
+## Script for working out Condition indexes and variance decomposition proportions
+
+colldiag.mer <- function (fit,
+scale = TRUE, center = FALSE,
+add.intercept = TRUE){
+## adapted from perturb::colldiag, method in Belsley, Kuh, and
+## Welsch (1980).  look for a high condition index (> 30) with
+## more than one high variance propotion.  see ?colldiag for more
+## tips.
+result <- NULL
+if (center)
+add.intercept <- FALSE
+if (is.matrix(fit) || is.data.frame(fit)) {
+X <- as.matrix(fit)
+nms <- colnames(fit)
+}
+else if (class(fit) == "mer") {
+nms <- names(fixef(fit))
+X <- fit@X
+if (any(grepl("(Intercept)", nms))) {
+add.intercept <- FALSE
+}
+}
+X <- X[!is.na(apply(X, 1, all)), ]
+if (add.intercept) {
+X <- cbind(1, X)
+colnames(X)[1] <- "(Intercept)"
+}
+X <- scale(X, scale = scale, center = center)
+svdX <- svd(X)
+svdX$d
+condindx <- max(svdX$d)/svdX$d
+dim(condindx) <- c(length(condindx), 1)
+Phi = svdX$v %*% diag(1/svdX$d)
+Phi <- t(Phi^2)
+pi <- prop.table(Phi, 2)
+colnames(condindx) <- "cond.index"
+if (!is.null(nms)) {
+rownames(condindx) <- nms
+colnames(pi) <- nms
+rownames(pi) <- nms
+} else {
+rownames(condindx) <- 1:length(condindx)
+colnames(pi) <- 1:ncol(pi)
+rownames(pi) <- 1:nrow(pi)
+}
+result <- data.frame(cbind(condindx, pi))
+zapsmall(result)
+}
+
+
+## correlation estimates of collinearity
+maxcorr.mer <- function (fit,
+exclude.intercept = TRUE) {
+so <- summary(fit)
+corF <- so@vcov@factors$correlation
+nam <- names(fixef(fit))
+## exclude intercepts
+ns <- sum(1 * (nam == "Intercept" | nam == "(Intercept)"))
+if (ns > 0 & exclude.intercept) {
+corF <- corF[-(1:ns), -(1:ns), drop = FALSE]
+nam <- nam[-(1:ns)]
+}
+corF[!lower.tri(corF)] <- 0
+maxCor <- max(corF)
+minCor <- min(corF)
+if (abs(maxCor) > abs(minCor)) {
+zapsmall(maxCor)
+} else {
+zapsmall(minCor)
+}
+}
